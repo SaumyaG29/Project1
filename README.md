@@ -1,3 +1,3 @@
-# Project1-modules-resourcegroup
+# Project1
 
-This is the first module where we will provision a resource in Azure.
+Creating a three tier architecture using Terraform
